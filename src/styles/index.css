@@ -7,3 +7,13 @@ body {
     background-position: center;
     height: 100vh;
 }
+
+.width-10 {
+    width: 100px;
+}
+
+.cable {
+    background-color: gray;
+    height: 110px;
+    width: 10px;
+}
